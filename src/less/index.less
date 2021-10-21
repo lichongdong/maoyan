@@ -1,0 +1,41 @@
+.flex(@content:'space-between',@align:'center'){
+	display:flex;
+	justify-content:@content;
+	align-items:@align;
+}
+
+/*定义公共的margin*/
+
+.margin(@top:24px) {
+	margin:@top;
+}
+.margin2(@top:0,@right:16px){
+	margin:@top @right;
+}
+
+/*定义公共的padding*/
+.padding(@top: 24px) {
+  padding: @top;
+}
+.padding2(@top:10px, @right:16px) {
+  padding: @top @right;
+}
+.padding3(@top:0, @right:24px, @bottom: 0) {
+  padding: @top @right @bottom;
+}
+
+/* 定义box-radius */
+.bR(@radius: 16px) {
+  border-radius: @radius;
+}
+.boxShadow(){
+  box-shadow: 0 0 15px 0 #eee;
+}
+
+@color:#faaf00;
+// 字体相关
+@font-lg: 38px;
+@font-md: 32px;
+@font-xl: 25px;
+@font-xs: 16px;
+@font-mini:12px;
