@@ -1,0 +1,700 @@
+{
+        "errorCode": 0,
+        "errorMessage": "success",
+        "movies_list": [{
+          "item_id": 1,
+          "movies_title": "我的姐姐",
+          "mark_title": "观众评分",
+          "mark_number":"9.8",
+          "isBuy":"true",
+          "play_time":"2021-09-30",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406oDI.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":1,
+                "detail_title":"我的姐姐",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/406oDI.png",
+                "brief_introduction":"姐姐安然（张子枫饰）的父母为了要一个男孩，不惜谎报她身有残疾，是个瘸子，甚至在检查人员撞破姐姐身体健康的真相时，父亲对她一顿暴打。高考时姐姐填报的北京临床医学专业，也被父母偷偷改成了家乡的护理专业，理由是“女孩要早点赚钱养家”。考研去北京成为姐姐摆脱父母的光明出路。但父母不幸车祸身亡，给她留下了年仅六岁的弟弟。原本已经明确人生规划的姐姐，面临着要抚养关系冷漠疏离的弟弟，还是追求个人理想的艰难抉择,一场意外车祸把父母带走，也把素未谋面的亲弟弟带到姐姐的面前。在一系列风波过后，姐姐原本来自原生家庭的伤痛慢慢被治愈，她也成长为更好的自己。"
+              }] 
+        },
+        {
+          "item_id": 2,
+          "movies_title": "名侦探柯南：绯色的子弹",
+          "mark_title": "观众评分",
+          "mark_number":"0",
+          "isBuy":"false",
+          "play_time":"2021-09-28",
+          "movies_role": "高山南,山崎和佳奈,小山力也",
+          "show_info": "2021-04-17 本周六上映",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406hgH.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":2,
+              "detail_title":"名侦探柯南：绯色的子弹",
+              "type":"喜剧/剧情",
+              "detail_role":"高山南/山崎和佳奈/小山力也",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406hgH.png",
+              "brief_introduction":"全球最⼤体育盛事WSG即将在东京举办开幕式，届时，融合⽇本先进技术打造的最⾼时速可达1000km的 “真空超电导磁悬浮”也即将通车。在这个万众瞩⽬的关头，汇集WSG知名赞助商的酒会现场遇到了突发事件，知名企业的⾼官接连遭到绑架，列车启动仪式现场也出现了意外。根据柯南的推理，本次事件也许与⼗五年前在美国波⼠顿发⽣的WSG绑架事件有关。这真的是偶然吗？在各国游客聚集的⽇本到底会发⽣什么样的事件？真空超导磁悬浮启动之时，“危险⼀  家⼈”终于集结！"
+            }]
+        },
+        {
+          "item_id": 3,
+          "movies_title": "哥斯拉大战金刚",
+          "mark_title": "观众评分",
+          "mark_number":"8.9",
+          "play_time":"2021-09-31",
+          "isBuy":"true",
+          "movies_role": "哥斯拉,金刚,亚历山大·斯卡斯加德",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406IKA.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+              "id":3,
+              "detail_title":"哥斯拉大战金刚",
+              "type":"喜剧/剧情",
+              "detail_role":"哥斯拉/金刚/亚历山大·斯卡斯加德",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406IKA.png",
+              "brief_introduction":"影片中，这两位宛如神衹一般强大的对手于一场壮观的战争中相遇，彼时世界命运正悬于一线。为了找到真正的家园，金刚与他的保护者们踏上了一次艰难的旅程。与他们一道前行的还有一个年轻的孤儿女孩——吉雅，这个女孩与金刚之间存在着一种独特而强大的紧密联系。但意想不到的是，他们在前行的航道上与愤怒的哥斯拉狭路相逢，也由此在全球引起了一系列破坏。一股无形的力量造成了这两只巨兽之间的巨大冲突，深藏在地心深处的奥秘也由此揭开。"
+            }]
+        },
+        {
+          "item_id": 4,
+          "movies_title": "第十一回",
+          "mark_title": "观众评分",
+          "mark_number":"8.0",
+          "play_time":"2021-09-30",
+          "isBuy":"false",
+          "movies_role": "陈建斌,周迅,大鹏",
+          "show_info": "今天193家影院放映530场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406Tbt.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":4,
+              "detail_title":"第十一回",
+              "type":"喜剧/剧情",
+              "detail_role":"陈建斌/周迅/大鹏",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406Tbt.png",
+              "brief_introduction":"30年前一桩杀人案，被市话剧团拿来改编成舞台剧，马福礼（陈建斌 饰）作为杀人案的当事人，旧事重提让他的生活再起波澜。马福礼一边忙着和话剧团导演胡昆汀（大鹏 饰）纠缠掰理，一边找律师翻案寻求真相还自己清白，还要忙着调和妻子金财铃（周迅 饰）和女儿金多多（窦靖童 饰）剑拔弩张的关系，生活给了他多记重锤……时隔多年，马福礼能否重新翻案？真相到底有几个？人生如戏，请君入席。"
+            }]
+        },
+        {
+          "item_id": 5,
+          "movies_title": "八月未央",
+          "mark_title": "观众评分",
+          "mark_number":"4.3",
+          "play_time":"2021-10-02",
+          "isBuy":"false",
+          "movies_role": "钟楚曦,罗晋,谭松韵",
+          "show_info": "今天3家影院放映3场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406q58.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":5,
+              "detail_title":"八月未央",
+              "type":"喜剧/剧情",
+              "detail_role":"钟楚曦/罗晋/谭松韵",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406q58.png",
+              "brief_introduction":"讲述了可爱率真的小乔（谭松韵 饰）遇见了沉默寡言的未央（钟楚曦 饰），小乔的热情开朗使性格迥异的她们迅速成为了“蜜友”，而小乔未婚夫朝颜（罗晋 饰）的出现使得三人的感情产生了微妙的变化，三人关系也由此变得错综复杂的爱情故事。"
+            }]
+        },
+        {
+          "item_id": 6,
+          "movies_title": "西游记之再世妖王",
+          "mark_title": "观众评分",
+          "mark_number":"8.3",
+          "play_time":"2021-10-02",
+          "isBuy":"false",
+          "movies_role": "边江,张磊,蔡海婷",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406hgH.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":6,
+              "detail_title":"西游记之再世妖王",
+              "type":"喜剧/剧情",
+              "detail_role":"边江/张磊/蔡海婷",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406hgH.png",
+              "brief_introduction":"混沌初开之时，世上的第一只妖诞生，名元蒂，被奉为妖祖。千百万年后，昔日妖王孙悟空被唐僧从五行山下救出，一同前往西天取经。而传说中的妖祖元蒂这时再次出现，三界岌岌可危。两代妖王注定终极一战，但这次孙悟空遇上的，是前所未见的劲敌!"
+            }]
+        },
+        {
+          "item_id": 7,
+          "movies_title": "阿凡达",
+          "mark_title": "观众评分",
+          "mark_number":"9.3",
+          "play_time":"2021-10-04",
+          "isBuy":"true",
+          "movies_role": "萨姆·沃辛顿,佐伊·索尔达娜,米歇尔·罗德里格兹",
+          "show_info": "今天161家影院放映380场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406HVP.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+              "id":7,
+              "detail_title":"阿凡达",
+              "type":"喜剧/剧情",
+              "detail_role":"萨姆·沃辛顿/佐伊·索尔达娜/米歇尔·罗德里格兹",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406HVP.png",
+              "brief_introduction":"战斗中负伤而下身瘫痪的前海军战士杰克·萨利（萨姆·沃辛顿 饰）决定替死去的同胞哥哥到潘多拉星控操纵格蕾丝博士（西格妮·韦弗 饰）用人类基因与当地纳美部族基因结合创造出的“阿凡达“混血生物。”杰克的目的是打入纳美部落，外交说服他们自愿离开世代居住的家园，从而SecFor公司可砍伐殆尽该地区的原始森林，开采地下昂贵的“不可得”矿。在探索潘多拉星的过程中，杰克遇到了纳美部落的公主娜蒂瑞（佐伊·索尔达娜饰），向她学习了纳美人的生存技能与对待自然的态度。与此同时，SecFor公司的经理和军方代表上校迈尔斯（史蒂芬·朗 饰）逐渐丧失耐心，决定诉诸武力驱赶纳美人。"
+            }]
+        },
+        {
+          "item_id": 8,
+          "movies_title": "指环王：护戒使者",
+          "mark_title": "观众评分",
+          "mark_number":"9.8",
+          "play_time":"2021-09-30",
+          "isBuy":"false",
+          "movies_role": "伊莱贾·伍德,伊恩·麦克莱恩,丽芙·泰勒",
+          "show_info": "2021-04-16 本周五重映",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406bUf.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+                "id":8,
+                "detail_title":"指环王：护戒使者",
+                "type":"喜剧/剧情",
+                "detail_role":"伊莱贾·伍德/伊恩·麦克莱恩/丽芙·泰勒",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/406bUf.png",
+                "brief_introduction":"战斗中负伤而下身瘫痪的前海军战士杰克·萨利（萨姆·沃辛顿 饰）决定替死去的同胞哥哥到潘多拉星控操纵格蕾丝博士（西格妮·韦弗 饰）用人类基因与当地纳美部族基因结合创造出的“阿凡达“混血生物。”杰克的目的是打入纳美部落，外交说服他们自愿离开世代居住的家园，从而SecFor公司可砍伐殆尽该地区的原始森林，开采地下昂贵的“不可得”矿。在探索潘多拉星的过程中，杰克遇到了纳美部落的公主娜蒂瑞（佐伊·索尔达娜饰），向她学习了纳美人的生存技能与对待自然的态度。与此同时，SecFor公司的经理和军方代表上校迈尔斯（史蒂芬·朗 饰）逐渐丧失耐心，决定诉诸武力驱赶纳美人。"
+              }]
+        },
+        {
+          "item_id": 9,
+          "movies_title": "你好，李焕英",
+          "mark_title": "观众评分",
+          "mark_number":"9.5",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "贾玲,张小斐,沈腾",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406Tbt.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+              "id":9,
+              "detail_title":"你好，李焕英",
+              "type":"喜剧/剧情",
+              "detail_role":"贾玲/张小斐/沈腾",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406Tbt.png",
+              "brief_introduction":"2001年的某一天，刚刚考上大学的贾晓玲（贾玲 饰）经历了人生中的一次大起大落。一心想要成为母亲骄傲的她却因母亲突遭严重意外，而悲痛万分。在贾晓玲情绪崩溃的状态下，竟意外的回到了 1981 年，并与年轻的母亲李焕英（张小斐 饰）相遇，二人形影不离，宛如闺蜜。与此同时，也结识了一群天真善良的好朋友。晓玲以为来到了这片“广阔天地”，她可以凭借自己超前的思维，让母亲“大有作为”，但结果却让晓玲感到意外......"
+            }]
+        },
+        {
+          "item_id": 10,
+          "movies_title": "波斯语课",
+          "mark_title": "观众评分",
+          "mark_number":"9.0",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406bUf.png",
+          "movies_buy_ticket": "购票",
+          "movies_like_ticket": "想看",
+          "detail_list":[{
+            "id":10,
+            "detail_title":"波斯语课",
+            "type":"喜剧/剧情",
+            "detail_role":"张子枫/肖央/朱媛媛",
+            "movies_releasetime":"2021-04-16",
+            "movies_address":"中国大陆",
+            "movies_playtime":"120分钟",
+            "imgUrl": "https://z3.ax1x.com/2021/09/24/406bUf.png",
+            "brief_introduction":"⼆战期间，犹太⼈吉尔斯在集中营为了⽣存，谎称⾃⼰是波斯⼈，被⼀位德国军官要求教授波斯语。对波   斯语完全不懂的吉尔斯只能凭空编造出⼀门语⾔，他开始⽤集中营中关押的犹太⼈的名字作为词根，编造   出上千个“波斯语”单词。吉尔斯凭借坚强的意志和聪明的头脑，最终活了下来。"
+          }]
+        },
+        {
+          "item_id": 11,
+          "movies_title": "六人-泰坦尼克上的中国幸存者",
+          "mark_title": "观众评分",
+          "mark_number":"8.1",
+          "play_time":"2021-09-30",
+          "isBuy":"false",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40ckPU.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":11,
+              "detail_title":"六人-泰坦尼克上的中国幸存者",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/40ckPU.png",
+              "brief_introduction":"1912年4月14日泰坦尼克号沉没后几乎所有幸存者被送回至纽约港口，唯独六名中国幸存者，他们获救后在24小时之内被美国驱逐出境，他们的逃生经历几乎不被记录，甚至被刻意抹去。本片由詹姆斯·卡梅隆监制，我们将跟随调查者，追寻这六人从人类史上最大海难中死里逃生的经历和人生轨迹，拆穿被掩盖一个世纪之久的谎言。"
+            }]
+        },
+        {
+          "item_id": 12,
+          "movies_title": "工作细胞：细胞大作战",
+          "mark_title": "观众评分",
+          "mark_number":"9.8",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40cSrn.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+              "id":12,
+              "detail_title":"工作细胞：细胞大作战",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/40cSrn.png",
+              "brief_introduction":"这是人类的体内。许许多多的细胞勤奋工作的世界。某日白细胞（中性粒细胞）与红细胞，遇见了收留迷路乳酸菌的一般细胞。为了将乳酸菌护送至同伴身边，白细胞(中性粒细胞)与一般细胞向肠道出发。然而他们却与来者不善的最强敌人重逢。「我和你们到底谁才是正义的一方，趁这次弄个清楚吧」再次现身的癌细胞。以及遭到坏菌破坏的肠内环境。体内遭遇前所未有的大危机！束手就擒吧 癌细胞！为了守护这个世界，白细胞们（中性粒细胞）向赌上世界命运的大战发起挑战。"
+            }]
+        },
+        {
+          "item_id": 13,
+          "movies_title": "迷雾追凶",
+          "mark_title": "观众评分",
+          "mark_number":"6.8",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406OPS.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":13,
+                "detail_title":"迷雾追凶",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/406OPS.png",
+                "brief_introduction":"阿尔卑斯山脚下的小镇上，大雾引发了一场交通事故，失事司机就是前来调查少女失踪案的警探沃格尔（托尼·塞尔维洛 饰），中学老师马提尼（阿莱西奥·博尼 饰）是他锁定的嫌犯。在心理医生弗洛里斯（让·雷诺 饰演）的疏导下，沃格尔缓缓道出幕后真相，一场酝酿已久的更大阴谋也逐渐显露真容。"
+              }]
+        },
+        {
+          "item_id": 14,
+          "movies_title": "超级的我",
+          "mark_title": "观众评分",
+          "mark_number":"7.0",
+          "play_time":"2021-09-30",
+          "isBuy":"false",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406X8g.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":14,
+              "detail_title":"超级的我",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406X8g.png",
+              "brief_introduction":"如果睡觉能赚钱，如果做梦能致富，但是要付出代价，你加入吗？18线小编剧桑榆（王大陆 饰）原本生活困顿拮据，但一夜之间却拥有了梦中取物的神奇能力，通过将梦中的宝物变现，潦倒落魄的他成为人生赢家，甚至一掷千金追求到暗恋多年的花儿（宋佳 饰），然而在梦中快意掠取的桑榆却逐渐发现，这场躺赢美梦竟将他的生活推向了失控的边缘……"
+            }]
+        },
+        {
+          "item_id": 15,
+          "movies_title": "你的婚礼",
+          "mark_title": "观众评分",
+          "mark_number":"9.8",
+          "play_time":"2021-09-30",
+          "isBuy":"false",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406j2Q.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":15,
+              "detail_title":"你的婚礼",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406j2Q.png",
+              "brief_introduction":"那个陪你穿校服的人，最后陪你走到了婚礼吗？电影《你的婚礼》讲述游泳特长生周潇齐与转校生尤咏慈长达15年的爱情故事。高中时，周潇齐（许光汉饰）对尤咏慈（章若楠饰）一见钟情，年少懵懂的纯纯爱恋，男孩默默守护，但女孩却不告而别。此后的人生，15年的爱情长跑。你的婚礼，也是我的成人礼。"
+            }]
+        },
+        {
+          "item_id": 16,
+          "movies_title": "寻龙传说",
+          "mark_title": "观众评分",
+          "mark_number":"4.8",
+          "play_time":"2021-09-30",
+          "isBuy":"false",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406vvj.png",
+          "movies_buy_ticket": "预售",
+          "detail_list":[{
+              "id":16,
+              "detail_title":"寻龙传说",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406vvj.png",
+              "brief_introduction":"很久以前，在充满奇幻色彩的龙佑之邦（Kumandra),人类和龙和谐地生活在一起。但当一股邪恶的力量袭来，龙牺牲了自己来拯救人类。500年后，同样的邪恶力量卷土重来，只有一个孤独的战士拉雅（Raya）承担重任，追踪传说中的最后一条龙，以修复这块破碎的土地，团结分裂的人民。在她的旅程中，她也会逐渐了解到拯救世界不仅仅需要一条龙，还需要信任和团队合作。"
+            }]
+        },
+        {
+          "item_id": 17,
+          "movies_title": "笨贼向前冲",
+          "mark_title": "观众评分",
+          "mark_number":"8.8",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406zKs.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+              "id":17,
+              "detail_title":"笨贼向前冲",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/406zKs.png",
+              "brief_introduction":"城市最大的参行被盗，价值千万的野山参瞬间下落不明。推销员马有才事事都晚半拍，他为筹集一笔资金，铤而走险变成了一个空有盗窃名头的盗窃人。主犯“独眼”处心积虑想把同伙灭口却不幸丧命。萧文欲在盗窃人参计划中获利，却偶遇苦寻的女友的未婚夫曹丰。案件在警官许峰的层层追查下更加扑朔迷离。人性的深情相付和铤而走险，让所有人的关系和命运错综复杂......"
+            }]
+        },
+        {
+          "item_id": 18,
+          "movies_title": "悬崖之上",
+          "mark_title": "观众评分",
+          "mark_number":"9.8",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40cSrn.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+              "id":18,
+              "detail_title":"悬崖之上",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/40cSrn.png",
+              "brief_introduction":"上世纪三十年代，四位曾在苏联接受特训的共产党特工组成任务小队，回国执行代号为“乌特拉”的秘密行动。由于叛徒的出卖，他们从跳伞降落的第一刻起， 就已置身于敌人布下的罗网之中。同志能否脱身，任务能否完成，雪一直下，立于“悬崖之上”的行动小组面临严峻考验。"
+            }]
+        },
+        {
+          "item_id": 19,
+          "movies_title": "明天会好的",
+          "mark_title": "观众评分",
+          "mark_number":"6.7",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40cpbq.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+              "id":19,
+              "detail_title":"明天会好的",
+              "type":"喜剧/剧情",
+              "detail_role":"张子枫/肖央/朱媛媛",
+              "movies_releasetime":"2021-04-16",
+              "movies_address":"中国大陆",
+              "movies_playtime":"120分钟",
+              "imgUrl": "https://z3.ax1x.com/2021/09/24/40cpbq.png",
+              "brief_introduction":"我27岁了，我也不会开车，也没有出过国，用的还是9块9的唇膏，我这辈子到现在为止，都是靠自己。一个女孩要过多少坎儿，才可以有真正的快乐生活？可能要遇见渣男，糟心的工作，要接受好闺蜜不再属于自己，爸妈的极速老去。萧渝（papi酱 饰）在大城市打拼许久，她的新室友是音乐人季野（张超 饰），两个在生活中都不如意的人，彼此陪伴，那么明天，真的会好吗？"
+            }]
+        },
+        {
+          "item_id": 20,
+          "movies_title": "21座桥",
+          "mark_title": "观众评分",
+          "mark_number":"4.4",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40cCV0.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":20,
+                "detail_title":"21座桥",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/40cCV0.png",
+                "brief_introduction":"事业失意的纽约警探安德烈·戴维斯（查德维克·博斯曼 饰）意外被任命追捕一起重大涉毒杀人案的凶手。在这个骇人听闻的案件中，八名警察惨遭谋杀。为了让凶手尽快落网，戴维斯开启了曼哈顿历史上第一次全境封锁，岛上与外界联系的21座桥全部禁止出入。但封锁时间只有四个小时，戴维斯必须在天亮之前抓到凶手！在紧张的追捕行动中，戴维斯发现凶手也同样在被追杀，这起案件背后可能藏着一个滔天阴谋，他必须在一切不可挽回之前找出凶手并查明真相。"
+              }]
+        },
+        {
+          "item_id": 21,
+          "movies_title": "人潮汹涌",
+          "mark_title": "观众评分",
+          "mark_number":"9.8",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40cPaV.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":21,
+                "detail_title":"人潮汹涌",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/40cPaV.png",
+                "brief_introduction":"2021年，你做好准备换个活法，牛转乾坤了吗？ 顶级杀手周全（刘德华 饰）和落寞群演陈小萌（肖央 饰）在一次意外中交换了身份。杀手在跌入谷底的过程中，重新审视了爱情和生活；群演在冒充杀手的过程中，彻底重塑了人生。两个人一起历经的荒诞，有啼笑皆非，更有热血沸腾。"
+              }]
+        },
+        {
+          "item_id": 22,
+          "movies_title": "百团大战",
+          "mark_title": "观众评分",
+          "mark_number":"9.9",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40ci5T.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":22,
+                "detail_title":"百团大战",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/40ci5T.png",
+                "brief_introduction":"1940年，国民党军队在抗战的正面战场节节败退。枣宜会战中，张自忠将军战死沙场。关键时刻，彭德怀和左权在华北敌后计划多点作战，反击日军扫荡。在获得中央批准后，参战部队全面发起对正太铁路、同蒲铁路、平汉铁路和津浦铁路及周边公路交通网的破袭战，取得成功。随后，左权指挥了西营邬战斗，全歼日军。面对日军进犯黄崖洞兵工厂，黄崖洞官兵奋起抵抗，一二九师等迅速驰援，致使日军撤退。中国共产党领导八路军主动发起的百团大战，历时五个多月，扭转战局，粉碎了日军的“囚笼政策”，极大地振奋了抗日军民的士气。"
+              }]
+        },
+        {
+          "item_id": 23,
+          "movies_title": "小美人鱼的奇幻冒险",
+          "mark_title": "观众评分",
+          "mark_number":"3.8",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40ckPU.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":23,
+                "detail_title":"小美人鱼的奇幻冒险",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/40ckPU.png",
+                "brief_introduction":"海的女儿—美人鱼作为经典的童话故事之一伴随几代人的童年记忆在世间广为流传。本片讲述在神秘的海洋国度，美丽勇敢的小美人鱼抗争传统束缚，追求自由从而改变自己命运的故事。此片再现“美人鱼”的纯真世界，用积极且充满正能量的内容再一次唤起大众对于这个经典题材的兴趣。"
+              }]
+        },
+        {
+          "item_id": 24,
+          "movies_title": "金刚川",
+          "mark_title": "观众评分",
+          "mark_number":"6.8",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/406OPS.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":24,
+                "detail_title":"金刚川",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/406OPS.png",
+                "brief_introduction":"1953年，抗美援朝战争进入最终阶段，志愿军在金城发动最后一场大型战役。为在指定时间到达，向 金城前线投放更多战力，志愿军战士们在物资匮乏、武装悬殊的情况下，不断抵御敌机狂轰滥炸，以血肉之躯一次次修补战火中的木桥。一段鲜为人知的历史，在暗流涌动的金刚川上徐徐展开......"
+              }]
+        },
+        {
+          "item_id": 25,
+          "movies_title": "唐人街探案3",
+          "mark_title": "观众评分",
+          "mark_number":"9.0",
+          "play_time":"2021-09-30",
+          "isBuy":"true",
+          "movies_role": "张子枫,肖央,朱媛媛",
+          "show_info": "今天237家影院放映2874场",
+          "imgUrl": "https://z3.ax1x.com/2021/09/24/40cSrn.png",
+          "movies_like_ticket": "想看",
+          "movies_buy_ticket": "购票",
+          "detail_list":[{
+                "id":25,
+                "detail_title":"唐人街探案3",
+                "type":"喜剧/剧情",
+                "detail_role":"张子枫/肖央/朱媛媛",
+                "movies_releasetime":"2021-04-16",
+                "movies_address":"中国大陆",
+                "movies_playtime":"120分钟",
+                "imgUrl": "https://z3.ax1x.com/2021/09/24/40cSrn.png",
+                "brief_introduction":"继曼谷、纽约之后，东京再出大案。唐人街神探唐仁（王宝强 饰）、秦风（刘昊然 饰）受侦探野田昊（妻夫木聪 饰）的邀请前往破案。“CRIMASTER世界侦探排行榜”中的侦探们闻讯后也齐聚东京，加入挑战，而排名第一Q的现身，让这个大案更加扑朔迷离，一场亚洲最强神探之间的较量即将爆笑展开……"
+              }]
+           }
+        ],
+  "imgList":[
+    {
+      "id":1,
+      "title":"峰爆",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/40cSrn.png"
+    },
+     {
+      "id":2,
+      "title":"我的姐姐",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/406OPS.png"
+    },
+     {
+      "id":3,
+      "title":"战狼",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/40ckPU.png"
+    },
+     {
+      "id":4,
+      "title":"新东方",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/40ci5T.png"
+    },
+     {
+      "id":5,
+      "title":"第一滴血",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/40cSrn.png"
+    },
+     {
+      "id":6,
+      "title":"五月天",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/40cpbq.png"
+    },
+     {
+      "id":7,
+      "title":"你好李焕英",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/406zKs.png"
+    },
+     {
+      "id":8,
+      "title":"星星",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/40cSrn.png"
+    },
+     {
+      "id":9,
+      "title":"奥特曼",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/406hgH.png"
+    },
+     {
+      "id":10,
+      "title":"金刚侠",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/406q58.png"
+    }
+  ],
+  "actorList":[
+       {
+      "id":1,
+      "title":"刘德华",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZdZn.jpg"
+    },
+     {
+      "id":2,
+      "title":"刘青云",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZwaq.jpg"
+    },
+     {
+      "id":3,
+      "title":"战狼",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZ0I0.jpg"
+    },
+     {
+      "id":4,
+      "title":"新东方",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZDiV.jpg"
+    },
+     {
+      "id":5,
+      "title":"第一滴血",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZrGT.jpg"
+    },
+     {
+      "id":6,
+      "title":"五月天",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZsRU.jpg"
+    },
+     {
+      "id":7,
+      "title":"你好李焕英",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZyzF.jpg"
+    },
+     {
+      "id":8,
+      "title":"星星",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZcM4.jpg"
+    },
+     {
+      "id":9,
+      "title":"奥特曼",
+      "imgUrl":"https://z3.ax1x.com/2021/09/24/40cnq1.jpg"
+    },
+     {
+      "id":10,
+      "title":"刘德华",
+      "imgUrl":"https://z3.ax1x.com/2021/09/26/4cZdZn.jpg"
+    }
+  ]
+}

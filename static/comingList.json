@@ -1,0 +1,94 @@
+{
+	 "coming_list":[
+    {
+      "id":1,
+      "movies_title":"有一点心动",
+      "want_to_see":"1239人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-06-30上映",
+      "imgUrl": "/static/images/list/25.jpg",
+      "movies_buy_ticket":"预售"
+    },
+    {
+      "id":2,
+      "movies_title":"追球",
+      "want_to_see":"1345人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-03上映",
+      "imgUrl": "/static/images/list/24.jpg",
+      "movies_buy_ticket":"预售"
+    },
+    {
+      "id":3,
+      "movies_title":"爱情对话框",
+      "want_to_see":"13456人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-06上映",
+      "imgUrl": "/static/images/list/23.jpg",
+      "movies_buy_ticket":"预售"
+    },
+    {
+      "id":4,
+      "movies_title":"梦境乔佳人",
+      "want_to_see":"1345人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-09上映",
+      "imgUrl": "/static/images/list/22.jpg",
+      "movies_buy_ticket":"预售"
+    },
+    {
+      "id":5,
+      "movies_title":"建筑师",
+      "want_to_see":"2021人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-13上映",
+      "imgUrl": "/static/images/list/21.jpg",
+      "movies_buy_ticket":"想看"
+    },
+    {
+      "id":6,
+      "movies_title":"普露米亚",
+      "want_to_see":"1345人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-16上映",
+      "imgUrl": "/static/images/list/20.jpg",
+      "movies_buy_ticket":"想看"
+    },
+    {
+      "id":7,
+      "movies_title":"诗人",
+      "want_to_see":"540人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-19上映",
+      "imgUrl": "/static/images/list/19.jpg",
+      "movies_buy_ticket":"想看"
+    },
+    {
+      "id":8,
+      "movies_title":"奋斗吧中华儿女",
+      "want_to_see":"1345人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-21上映",
+      "imgUrl": "/static/images/list/18.jpg",
+      "movies_buy_ticket":"预售"
+    },
+    {
+      "id":9,
+      "movies_title":"追球",
+      "want_to_see":"1345人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-07-30上映",
+      "imgUrl": "/static/images/list/17.jpg",
+      "movies_buy_ticket":"想看"
+    },
+    {
+      "id":10,
+      "movies_title":"你好世界",
+      "want_to_see":"13457人想看",
+      "movies_role":"张子枫,肖央,朱媛媛",
+      "date":"2021-08-01上映",
+      "imgUrl": "/static/images/list/16.jpg",
+      "movies_buy_ticket":"想看"
+    }
+  ]
+}
